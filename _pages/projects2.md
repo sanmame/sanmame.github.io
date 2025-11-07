@@ -31,7 +31,7 @@ nav_order: 3
     <tr>
       <td style="vertical-align:top">2013-2016</td>
       <td>
-        <b>Researcher</b> in the project <font color="#2698ba">Semantic and Syntactic Composition of Event Structure. Verbs, Adjectives, and Prepositions</font> [COMPSYSIN] <br>
+        <b>Researcher</b> in the project <font color="#2698ba">Semantic and Syntactic Composition of Event Structure. Verbs, Adjectives, and Prepositions[COMPSYSIN]</font>  <br>
         Ministry of Economy and Competitiveness [FFI2012-32886] <br>
 		PI: Violeta Demonte, Spanish National Research Council <br>
       </td>
@@ -44,7 +44,7 @@ nav_order: 3
     <tr>
       <td style="vertical-align:top">2011-2013</td>
       <td>
-		  <b>Researcher</b> in the project <font color="#2698ba">Event Structure and Lexico-Syntactic `Construction' of Clauses. Theory and Experimentation</font> [EVENTSYNT] <br>
+		  <b>Researcher</b> in the project <font color="#2698ba">Event Structure and Lexico-Syntactic `Construction' of Clauses. Theory and Experimentation [EVENTSYNT]</font> <br>
 		  Ministry of Economy and Competitiveness [FFI2012-32886] <br>
 		  PI: Violeta Demonte, Spanish National Research Council <br>
       </td>
@@ -57,7 +57,7 @@ nav_order: 3
     <tr>
       <td style="vertical-align:top">2010-2011</td>
       <td>
-        <b>Research assistant</b> in the project Project for the <font color="#2698ba">Sociolinguistic Study of Spanish from Spain and America (PRESEEA)</font>, subsection Valencia <br>
+        <b>Research assistant</b> in the <font color="#2698ba">Project for the Sociolinguistic Study of Spanish from Spain and America [PRESEEA]</font>, subsection Valencia <br>
 		  Ministry of Science and Innovation [HUM2004-06052-C06-00] <br>
 		  PI: Antonio Briz, Universitat de València<br>
       </td>

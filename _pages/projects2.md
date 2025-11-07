@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 
-<h2>Present</h2>
+<h3>present</h3>
 <table>
   <tbody>
     <tr>
@@ -24,7 +24,7 @@ nav_order: 3
 
 <br>
 
-<h2>Past</h2>
+<h3>Past</h3>
 
 <table>
   <tbody>

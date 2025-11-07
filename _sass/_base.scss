@@ -199,6 +199,7 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-style: normal;
+    font-size: 0.875rem;
 
     p {
       display: inline-block;
@@ -779,6 +780,7 @@ footer.sticky-bottom {
         > em {
           font-style: normal;
           font-weight: bold;
+          color: var(--global-theme-color);
         }
 
         > span.more-authors {

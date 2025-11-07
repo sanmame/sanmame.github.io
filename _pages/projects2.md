@@ -24,7 +24,7 @@ nav_order: 3
 
 <br>
 
-<h3>Past</h3>
+<h3>past</h3>
 
 <table style="width:100%">
   <tbody>

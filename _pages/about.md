@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Associate professor at <a href="https://www.uib.cat/">University of the Balearic Islands</a>
 
 profile:
   align: right
@@ -13,8 +13,8 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,9 +22,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
+<p align="justify">  
+  I am a linguist. I works as an associate professor at the <a href="https://www.uib.cat/lauib/Govern-i-organitzacio/estructura/Departaments/dfe/" target="_blank" rel="noopener noreferrer">department of Spanish, Modern and Classical Languages</a> of the <a href="https://www.uib.eu/" target="_blank" rel="noopener noreferrer">Universitat de les Illes Balears</a>. I am a member of the <a href="https://www.uib.eu/research/structures/groups/grup/BASLA/equip/index.html" target="_blank" rel="noopener noreferrer">Bilingualism and Spanish Language Acquisition</a> research group and the <a href="https://gresib.uib.cat/" target="_blank" rel="noopener noreferrer">Grup de Recerca Sociolingüística de les Illes Balears (GRESIB)</a> at UIB.
+</p>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+  <p align="justify">
+    Before that I have worked as a computational linguist at Google (through Adecco Outsourcing) and I was a lecturer at the  <a href="https://www.uv.es/uvweb/departament-teoria-llenguatges-ciencies-comunicacio/ca/departament-teoria-llenguatges-ciencies-comunicacio-1285860157607.html" target="_blank" rel="noopener noreferrer">department of Language Theory and Communication Sciences</a> of the <a href="https://www.uv.es/" target="_blank" rel="noopener noreferrer">Universitat de València</a> and at the <a href="https://www.ucm.es/lengespyteoliter" target="_blank" rel="noopener noreferrer">department of Spanish Linguistics and Literary Theory</a> of the <a href="https://www.ucm.es/" target="_blank" rel="noopener noreferrer">Universidad Complutense de Madrid</a>.
+  </p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+  <p align="justify">
+    I received my PhD in Cognitive Science and Language from the <a href="http://www.uab.cat/" target="_blank" rel="noopener noreferrer">Universitat Autònoma de Barcelona</a> (UAB). My dissertation <a href="https://www.educacion.gob.es/teseo/mostrarRef.do?ref=1392759" target="_blank" rel="noopener noreferrer">Adverbial adjectives and nominal scalarity</a> was written at the <a href="http://www.lineas.cchs.csic.es/lycc/en" target="_blank" rel="noopener noreferrer">Linguistics and Cognitive Science</a> research group (LyCC) of the <a href="http://www.csic.es/" target="_blank" rel="noopener noreferrer">Spanish National Research Council</a> (CSIC).
+  </p>

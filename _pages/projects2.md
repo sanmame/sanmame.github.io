@@ -9,7 +9,7 @@ nav_order: 3
 
 
 <h3>present</h3>
-<table>
+<table style="width:100%">
   <tbody>
     <tr>
       <td style="vertical-align:top">2022-2026</td>
@@ -26,7 +26,7 @@ nav_order: 3
 
 <h3>Past</h3>
 
-<table>
+<table style="width:100%">
   <tbody>
     <tr>
       <td style="vertical-align:top">2013-2016</td>
@@ -39,7 +39,7 @@ nav_order: 3
   </tbody>
 </table>
 
-<table>
+<table style="width:100%">
   <tbody>
     <tr>
       <td style="vertical-align:top">2011-2013</td>
@@ -52,7 +52,7 @@ nav_order: 3
   </tbody>
 </table>
 
-<table>
+<table style="width:100%">
   <tbody>
     <tr>
       <td style="vertical-align:top">2010-2011</td>
@@ -65,7 +65,7 @@ nav_order: 3
   </tbody>
 </table>
 
-<table>
+<table style="width:100%">
   <tbody>
     <tr>
       <td style="vertical-align:top">2010-2011</td>

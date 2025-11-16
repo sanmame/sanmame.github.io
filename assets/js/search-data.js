@@ -41,12 +41,10 @@ ninja.data = [{
           section: "News",},{id: "news-the-conference-on-null-objects-from-a-crosslinguistic-and-developmental-perspective-2025-hosted-by-uib-starts-today",
           title: 'The conference on Null Objects from a Crosslinguistic and Developmental Perspective 2025 hosted...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-will-be-a-visiting-scholar-at-the-language-in-neurodiversity-lab-in-the-university-of-the-basque-country-upv-ehu-during-november-and-december-to-work-on-referential-choice",
+          title: 'I will be a visiting scholar at the Language in Neurodiversity Lab in...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-04-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented our work on Choice of anaphoric expressions in typically-developing children at the <a href="https://aesla.uib.eu/">42nd International Conference of the Spanish Association of Applied Linguistics (AESLA)</a>

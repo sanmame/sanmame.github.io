@@ -25,7 +25,7 @@ announcements:
 
 ---
 <p align="justify">  
-  I am a linguist. I works as an associate professor at the <a href="https://www.uib.cat/lauib/Govern-i-organitzacio/estructura/Departaments/dfe/" target="_blank" rel="noopener noreferrer">department of Spanish, Modern and Classical Languages</a> of the <a href="https://www.uib.eu/" target="_blank" rel="noopener noreferrer">Universitat de les Illes Balears</a>. I am a member of the <a href="https://www.uib.eu/research/structures/groups/grup/BASLA/equip/index.html" target="_blank" rel="noopener noreferrer">Bilingualism and Spanish Language Acquisition</a> research group and the <a href="https://gresib.uib.cat/" target="_blank" rel="noopener noreferrer">Grup de Recerca Sociolingüística de les Illes Balears (GRESIB)</a> at UIB.
+  I am a linguist. I work as an associate professor at the <a href="https://www.uib.cat/lauib/Govern-i-organitzacio/estructura/Departaments/dfe/" target="_blank" rel="noopener noreferrer">department of Spanish, Modern and Classical Languages</a> of the <a href="https://www.uib.eu/" target="_blank" rel="noopener noreferrer">Universitat de les Illes Balears</a>. I am a member of the <a href="https://www.uib.eu/research/structures/groups/grup/BASLA/equip/index.html" target="_blank" rel="noopener noreferrer">Bilingualism and Spanish Language Acquisition</a> research group and the <a href="https://gresib.uib.cat/" target="_blank" rel="noopener noreferrer">Grup de Recerca Sociolingüística de les Illes Balears (GRESIB)</a> at UIB.
 </p>
 
   <p align="justify">

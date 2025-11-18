@@ -11,9 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Universitat Autonoma de Barcelona
-      year: 1905
+    - title: PhD, Cognitive Science and Language
+      institution: Universitat Autonòma de Barcelona
+      year: 2017
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MA, Cognitive Science and Language
+      institution: Universitat de Barcelona
+      year: 2011
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor
+      institution: Universitat de les Illes Balears
+      year: 2022 - 2023
       description:
         - Description 1.
         - Description 2.

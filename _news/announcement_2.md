@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I will be a visiting scholar at the <a href="https://lindy-lab.eus/en/">Language in Neurodiversity Lab</a> in the <a href="">University of the Basque Country (UPV/EHU)</a> during November and December to work on referential choice.
+I will be a visiting scholar at the <a href="https://lindy-lab.eus/en/">Language in Neurodiversity Lab</a> in the <a href="">University of the Basque Country (UPV/EHU)</a> during November and December to work on Linguistic factors in the choice of referential expressions in the narratives of typically-developing and autistic children.
 

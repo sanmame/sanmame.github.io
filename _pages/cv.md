@@ -11,4 +11,4 @@ description:
 ---
 
 
-<embed src="https://sanmame.github.io/assets/pdf/cv-msm.pdf" type="application/pdf" style="width:100%; height:1000px; margin-left: auto; margin-right: auto;" frameborder="0"/>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/sdaza_resume.pdf" width="100%" height="600" type="application/pdf"></object>

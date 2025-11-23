@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate professor at <a href="https://www.uib.cat/">University of the Balearic Islands</a>
+subtitle: # Associate professor at <a href="https://www.uib.cat/">University of the Balearic Islands</a>
 
 profile:
   align: right

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: courses I've taught
+description: courses taught
 nav: true
 nav_order: 6
 ---
@@ -17,7 +17,7 @@ nav_order: 6
       </td>
     </tr>
     <tr>
-      <td style="vertical-align:top; width:10%">2025-2026</td>
+      <td style="vertical-align:top; width:10%"></td>
       <td>
         <font color="#2698ba">Microcredencial Universitària d’Actualització de Continguts Gramaticals en Llengua Catalana i Castellana</font>
       </td>
@@ -61,13 +61,13 @@ nav_order: 6
       </td>
     </tr>
     <tr>
-      <td style="vertical-align:top; width:10%">2021-2022</td>
+      <td style="vertical-align:top; width:10%"></td>
       <td>
         <font color="#2698ba">Fundamentos Lingüísticos de la Logopedia</font>, BA in Speech Therapy
       </td>
     </tr>
     <tr>
-      <td style="vertical-align:top; width:10%">2021-2022</td>
+      <td style="vertical-align:top; width:10%"></td>
       <td>
         <font color="#2698ba">Documentació per a traductors</font>, BA in Translation and Intercultural Mediation
       </td>
@@ -79,7 +79,7 @@ nav_order: 6
       </td>
     </tr>
     <tr>
-      <td style="vertical-align:top; width:10%">2020-2021</td>
+      <td style="vertical-align:top; width:10%"></td>
       <td>
         <font color="#2698ba">Expressió oral i escrita per als mitjans de comunicació II</font>, BA in Audiovisual Communication
       </td>
@@ -100,7 +100,7 @@ nav_order: 6
       </td>
     </tr>
     <tr>
-      <td style="vertical-align:top; width:10%">2018-2019</td>
+      <td style="vertical-align:top; width:10%"></td>
       <td>
         <font color="#2698ba">Lengua española. Teoría y prácticas de la lengua escrita</font>, BA in Modern Languages
       </td>
@@ -112,13 +112,13 @@ nav_order: 6
       </td>
     </tr>
     <tr>
-      <td style="vertical-align:top; width:10%">2017-2018</td>
+      <td style="vertical-align:top; width:10%"></td>
       <td>
         <font color="#2698ba">Español escrito para fines académicos</font>, BA in English Studies
       </td>
     </tr>
     <tr>
-      <td style="vertical-align:top; width:10%">2017-2018</td>
+      <td style="vertical-align:top; width:10%"></td>
       <td>
         <font color="#2698ba">Pragmática de la comunicación intercultural</font>, BA in Tourism
       </td>

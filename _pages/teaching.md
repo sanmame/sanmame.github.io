@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I've taught
+description: courses I've taught
 nav: true
 nav_order: 6
 ---
@@ -16,6 +16,7 @@ nav_order: 6
         <b>Introducción al Estudio de la Lengua Española</b>, BA in Spanish Language and Literature
       </td>
     </tr>
+    <tr>
       <td style="vertical-align:top; width:10%">2024-2025</td>
       <td>
         <b>Descripción y Análisis del Español: Estudio del Significado</b>, BA in Spanish Language and Literature
@@ -33,7 +34,6 @@ nav_order: 6
         <b>La Enseñanza de la Lengua Española en la Educación Primaria</b>, BA in Elementary Education
       </td>
     </tr>
-    <tr>
   </tbody>
 </table>
 
@@ -48,6 +48,7 @@ nav_order: 6
         <b>Retòrica</b>, BA in Art History
       </td>
     </tr>
+    <tr>
       <td style="vertical-align:top; width:10%">2021-2022</td>
       <td>
         <b>Fundamentos Lingüísticos de la Logopedia</b>, BA in Speech Therapy
@@ -84,6 +85,7 @@ nav_order: 6
         <b>Lengua española</b>, BA in Classical Philology
       </td>
     </tr>
+    <tr>
       <td style="vertical-align:top; width:10%">2018-2019</td>
       <td>
         <b>Lengua española. Teoría y prácticas de la lengua escrita</b>, BA in Modern Languages

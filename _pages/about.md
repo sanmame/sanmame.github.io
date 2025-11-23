@@ -39,3 +39,5 @@ announcements:
   <p align="justify">
   I'm happy to connect about research, supervision, or collaborations — feel free to <a href="mailto:melania.sanchez@uib.cat">email me</a>!
   </p>
+
+<br>

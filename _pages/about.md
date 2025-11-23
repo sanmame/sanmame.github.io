@@ -35,3 +35,7 @@ announcements:
   <p align="justify">
     I received my PhD in Cognitive Science and Language from the <a href="http://www.uab.cat/" target="_blank" rel="noopener noreferrer">Universitat Autònoma de Barcelona</a> (UAB) in 2017. My dissertation <a href="https://www.educacion.gob.es/teseo/mostrarRef.do?ref=1392759" target="_blank" rel="noopener noreferrer">Adverbial adjectives and nominal scalarity</a> was written at the <a href="http://www.lineas.cchs.csic.es/lycc/en" target="_blank" rel="noopener noreferrer">Linguistics and Cognitive Science</a> research group (LyCC) of the <a href="http://www.csic.es/" target="_blank" rel="noopener noreferrer">Spanish National Research Council</a> (CSIC).
   </p>
+
+  <p align="justify">
+  I'm happy to connect about research, supervision, or collaborations — feel free to <a href="mailto:melania.sanchez@uib.cat">email me</a>!
+  </p>

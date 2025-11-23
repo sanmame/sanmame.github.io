@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented our work on Choice of anaphoric expressions in typically-developing children at the <a href="https://aesla.uib.eu/">42nd International Conference of the Spanish Association of Applied Linguistics (AESLA)</a>
+Presented our <b>talk</b> on Choice of anaphoric expressions in typically-developing children at the <a href="https://aesla.uib.eu/">42nd International Conference of the Spanish Association of Applied Linguistics (AESLA)</a>

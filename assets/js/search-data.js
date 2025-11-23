@@ -42,8 +42,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-presented-our-work-on-choice-of-anaphoric-expressions-in-typically-developing-children-at-the-42nd-international-conference-of-the-spanish-association-of-applied-linguistics-aesla",
-          title: 'Presented our work on Choice of anaphoric expressions in typically-developing children at the...',
+            },},{id: "news-presented-our-talk-on-choice-of-anaphoric-expressions-in-typically-developing-children-at-the-42nd-international-conference-of-the-spanish-association-of-applied-linguistics-aesla",
+          title: 'Presented our talk on Choice of anaphoric expressions in typically-developing children at the...',
           description: "",
           section: "News",},{id: "news-the-conference-on-null-objects-from-a-crosslinguistic-and-developmental-perspective-2025-hosted-by-uib-starts-today",
           title: 'The conference on Null Objects from a Crosslinguistic and Developmental Perspective 2025 hosted...',

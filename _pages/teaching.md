@@ -37,7 +37,7 @@ nav_order: 6
     <tr>
       <td style="vertical-align:top; width:10%">2022-2025</td>
       <td>
-        <font color="#2698ba">Pràctiques I</font>, BA in Elementary Education \& BA in Early Childhood Education
+        <font color="#2698ba">Pràctiques I</font>, BA in Elementary Education & BA in Early Childhood Education
       </td>
     </tr>
     <tr>

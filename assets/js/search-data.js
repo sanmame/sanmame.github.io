@@ -42,10 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-the-conference-on-null-objects-from-a-crosslinguistic-and-developmental-perspective-2025-hosted-by-uib-starts-today",
-          title: 'The conference on Null Objects from a Crosslinguistic and Developmental Perspective 2025 hosted...',
-          description: "",
-          section: "News",},{id: "news-i-will-be-a-visiting-scholar-at-the-language-in-neurodiversity-lab-in-the-university-of-the-basque-country-upv-ehu-during-november-and-december-to-work-on-linguistic-factors-in-the-choice-of-referential-expressions-in-the-narratives-of-typically-developing-and-autistic-children",
+            },},{id: "news-i-will-be-a-visiting-scholar-at-the-language-in-neurodiversity-lab-in-the-university-of-the-basque-country-upv-ehu-during-november-and-december-to-work-on-linguistic-factors-in-the-choice-of-referential-expressions-in-the-narratives-of-typically-developing-and-autistic-children",
           title: 'I will be a visiting scholar at the Language in Neurodiversity Lab in...',
           description: "",
           section: "News",},{id: "news-our-paper-sobre-el-alcance-y-la-función-del-uso-del-lenguaje-inclusivo-en-el-aula-de-español-como-lengua-extranjera-at-culture-crossroads-is-out",
@@ -53,6 +50,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-isabel-crespí-uib-and-i-are-presenting-our-talk-on-adjetivos-perfectivos-y-alternancia-copulativa-en-catalán-at-the-liv-simposio-de-la-sociedad-española-de-lingüística",
           title: 'Isabel Crespí (UIB) and I are presenting our talk on Adjetivos perfectivos y...',
+          description: "",
+          section: "News",},{id: "news-iban-mañas-ub-and-i-will-be-presenting-our-talk-la-preeminencia-actual-de-la-interpretación-exclusiva-del-masculino-genérico-en-español-a-la-luz-del-metaanálisis-at-maricorners-2026-in-vigo",
+          title: 'Iban Mañas (UB) and I will be presenting our talk La preeminencia actual...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

@@ -42,10 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-will-be-a-visiting-scholar-at-the-language-in-neurodiversity-lab-in-the-university-of-the-basque-country-upv-ehu-during-november-and-december-to-work-on-linguistic-factors-in-the-choice-of-referential-expressions-in-the-narratives-of-typically-developing-and-autistic-children",
-          title: 'I will be a visiting scholar at the Language in Neurodiversity Lab in...',
-          description: "",
-          section: "News",},{id: "news-our-paper-sobre-el-alcance-y-la-función-del-uso-del-lenguaje-inclusivo-en-el-aula-de-español-como-lengua-extranjera-at-culture-crossroads-is-out",
+            },},{id: "news-our-paper-sobre-el-alcance-y-la-función-del-uso-del-lenguaje-inclusivo-en-el-aula-de-español-como-lengua-extranjera-at-culture-crossroads-is-out",
           title: 'Our paper Sobre el alcance y la función del uso del lenguaje inclusivo...',
           description: "",
           section: "News",},{id: "news-isabel-crespí-uib-and-i-are-presenting-our-talk-on-adjetivos-perfectivos-y-alternancia-copulativa-en-catalán-at-the-liv-simposio-de-la-sociedad-española-de-lingüística",
@@ -53,6 +50,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-iban-mañas-ub-and-i-will-be-presenting-our-talk-la-preeminencia-actual-de-la-interpretación-exclusiva-del-masculino-genérico-en-español-a-la-luz-del-metaanálisis-at-maricorners-2026-in-vigo",
           title: 'Iban Mañas (UB) and I will be presenting our talk La preeminencia actual...',
+          description: "",
+          section: "News",},{id: "news-my-student-ariadna-pinell-uib-has-received-the-best-ba-thesis-award-from-the-faculty-of-education-for-her-work-el-paper-de-les-expectatives-docents-en-la-confiança-i-el-desenvolupament-comunicatiu-d-alumnes-de-primària-en-tasques-d-expressió-escrita",
+          title: 'My student Ariadna Pinell (UIB) has received the best BA thesis award from...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

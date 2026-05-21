@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2025-10-30 16:11:00-0400
+date: 2026-04-29 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-I will be a <b>visiting scholar</b> at the <a href="https://lindy-lab.eus/en/">Language in Neurodiversity Lab</a> in the <a href="">University of the Basque Country (UPV/EHU)</a> during November and December to work on <span style="color: #808080">Linguistic factors in the choice of referential expressions in the narratives of typically-developing and autistic children</span>.
-
+My student Ariadna Pinell (UIB) has received the <b>best BA thesis award</b> from the faculty of Education for her work <a href="http://hdl.handle.net/11201/173258">El paper de les expectatives docents en la confiança i el desenvolupament comunicatiu d'alumnes de primària en tasques d'expressió escrita<a>.

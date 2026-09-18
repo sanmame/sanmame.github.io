@@ -7,8 +7,37 @@ nav: true
 nav_order: 3
 ---
 
-
 <h3>present</h3>
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <td style="vertical-align:top; width:10%">2026-2030</td>
+      <td>
+        <b>Researcher</b> in the project <font color="#2698ba">Grammatical rivalry, at-issueness and discourse structure [GRADS]</font> <br>
+        Ministry of Science and Innovation [PID2025-170133NB-C22] <br>
+        PI: Elena Castroviejo, Universitat de Barcelona
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <td style="vertical-align:top; width:10%">2026-2030</td>
+      <td>
+        <b>Researcher</b> in the project <font color="#2698ba">Variability and optionality in stable and developing grammars [VAROPGRAM]</font> <br>
+        Ministry of Science and Innovation [PID2025-173005NB-I00] <br>
+        PI: Maria del Mar Vanrell, Universitat de les Illes Balears
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+
+<h3>past</h3>
 <table style="width:100%">
   <tbody>
     <tr>
@@ -16,15 +45,11 @@ nav_order: 3
       <td>
         <b>Researcher</b> in the project <font color="#2698ba">Experimental Studies on Discourse Structure [EXPEDIS]</font> <br>
         Ministry of Science and Innovation [PID2021-122779NB-I00] <br>
-        PI: Laia Mayol, Universitat Pompeu Fabra
+		PI: Laia Mayol, Universitat Pompeu Fabra <br>
       </td>
     </tr>
   </tbody>
 </table>
-
-<br>
-
-<h3>past</h3>
 
 <table style="width:100%">
   <tbody>

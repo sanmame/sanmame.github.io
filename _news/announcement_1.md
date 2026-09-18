@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2026-01-28 15:59:00-0400
+date: 2026-10-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-<a href="https://isabelcrespi.cat/en/">Isabel Crespí</a> (UIB) and I are presenting our <b>talk</b> on <span style="color: #808080">Adjetivos perfectivos y alternancia copulativa en catalán</span> at the <a href="https://www.sel.edu.es/liv-simposio-madrid-2026/">LIV Simposio de la Sociedad Española de Lingüística</a>
+I'll be a <b>visiting scholar</b> with the <a href="https://talk-group.org/">TALK group</a> at the <a href="https://iif.conicet.gov.ar/">Instituto de Investigaciones Filosóficas (SADAF-CONICET)</a>
+to work on the project <span style="color: #808080">Dimensions of meaning: evaluativity and expressivity in the emphatic <i>un</i> construction</span>

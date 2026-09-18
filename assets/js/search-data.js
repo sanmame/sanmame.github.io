@@ -42,10 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-isabel-crespí-uib-and-i-are-presenting-our-talk-on-adjetivos-perfectivos-y-alternancia-copulativa-en-catalán-at-the-liv-simposio-de-la-sociedad-española-de-lingüística",
-          title: 'Isabel Crespí (UIB) and I are presenting our talk on Adjetivos perfectivos y...',
-          description: "",
-          section: "News",},{id: "news-iban-mañas-ub-and-i-will-be-presenting-our-talk-la-preeminencia-actual-de-la-interpretación-exclusiva-del-masculino-genérico-en-español-a-la-luz-del-metaanálisis-at-maricorners-2026-in-vigo",
+            },},{id: "news-iban-mañas-ub-and-i-will-be-presenting-our-talk-la-preeminencia-actual-de-la-interpretación-exclusiva-del-masculino-genérico-en-español-a-la-luz-del-metaanálisis-at-maricorners-2026-in-vigo",
           title: 'Iban Mañas (UB) and I will be presenting our talk La preeminencia actual...',
           description: "",
           section: "News",},{id: "news-my-student-ariadna-pinell-uib-has-received-the-best-ba-thesis-award-from-the-faculty-of-education-for-her-work-el-paper-de-les-expectatives-docents-en-la-confiança-i-el-desenvolupament-comunicatiu-d-alumnes-de-primària-en-tasques-d-expressió-escrita",
@@ -53,6 +50,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-isabel-crespí-uib-and-i-are-presenting-our-talk-on-copular-variation-with-perfective-adjectives-in-catalan-an-experimental-study-at-the-workshop-on-aspect-and-argument-structure-of-adverbs-adjectives-and-prepositions-participles-waasap-7",
           title: 'Isabel Crespí (UIB) and I are presenting our talk on Copular variation with...',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-a-visiting-scholar-with-the-talk-group-at-the-instituto-de-investigaciones-filosóficas-sadaf-conicet-to-work-on-the-project-dimensions-of-meaning-evaluativity-and-expressivity-in-the-emphatic-un-construction",
+          title: 'I’ll be a visiting scholar with the TALK group at the Instituto de...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

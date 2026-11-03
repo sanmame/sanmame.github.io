@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-04-29 16:11:00-0400
+date: 2026-11-03 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-My student Ariadna Pinell (UIB) has received the <b>best BA thesis award</b> from the faculty of Education for her work <a href="http://hdl.handle.net/11201/173258">El paper de les expectatives docents en la confiança i el desenvolupament comunicatiu d'alumnes de primària en tasques d'expressió escrita<a>.
+New <b>paper</b>! <a href="https://doi.org/10.5209/clac.98349">Una re-revisión del masculino genérico en español en respuesta a Heap (2024)</a> (Masià & Mañas Navarrete, 2026) has been published at <a href="https://revistas.ucm.es/index.php/CLAC/es/index">Círculo de Lingüística Aplicada a la Comunicación</a>.
